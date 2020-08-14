@@ -10,3 +10,5 @@
 ## Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snsei987&show_icons=true" alt="snsei987" /></p>
+
+Psst: It doesn't show commits to private repo !
